@@ -40,25 +40,25 @@ Adidas,37,Shoes,G,https://ashishdevden.github.io/MallNavigation/Logo/adidas.png
 Airtel,38,Tech,3,https://ashishdevden.github.io/MallNavigation/Logo/airtel.png
 Puma,39,Shoes,4,https://ashishdevden.github.io/MallNavigation/Logo/puma%20Logo.png
 Puma,40,Shoes,4,
-Ocean Investments Ltd ,SM1,Supermarket ,L1,
-Pacific Tech,K1,Tech Gadgets,L1,
-Simo – variety / gift ,K2,Gifts & souvenir ,L1,
-Simo – Bmobile ,K2a,Telecom ,L1,
-Alibi Juice Bar ,K3,Restaurant ,L1,
-Fone Haus ,T1,Telecom ,L1,
-Jean's West ,T2,Clothing ,L1,
-Pacific Tech ,T3,Tech Gadgets,L1,https://ashishdevden.github.io/MallNavigation/Logo/puma%20Logo.png
-Rapid Fones ,T4,Telecom ,L1,
-BNBM ,T5,Home Appliances ,L1,
-BNBM ,T6,Home Appliances ,L1,
-Modern Corner& Modern Tribe ,T7,Clothing ,L1,
-Size Small ,T8,Clothing ,L1,
-Phone Teck ,T9,Tech Gadgets,L1,
+Ocean Investments Ltd ,SM1,Supermarket ,L1,https://ashishdevden.github.io/MallNavigation/Logo/Ocean%20Investments%20Ltd.png
+Pacific Tech,K1,Tech Gadgets,L1,https://ashishdevden.github.io/MallNavigation/Logo/Pacific%20Tech.png
+Simo – variety / gift ,K2,Gifts & souvenir ,L1,https://ashishdevden.github.io/MallNavigation/Logo/Simo%20_%20variety_%20gift.png
+Simo – Bmobile ,K2a,Telecom ,L1,https://ashishdevden.github.io/MallNavigation/Logo/Simo%20_%20variety_%20gift.png
+Alibi Juice Bar ,K3,Restaurant ,L1,https://ashishdevden.github.io/MallNavigation/Logo/Alibi%20Juice%20Bar.png
+Fone Haus ,T1,Telecom ,L1,https://ashishdevden.github.io/MallNavigation/Logo/Fone%20Haus.png
+Jean's West ,T2,Clothing ,L1,https://ashishdevden.github.io/MallNavigation/Logo/Jean's%20West.png
+Pacific Tech ,T3,Tech Gadgets,L1,https://ashishdevden.github.io/MallNavigation/Logo/Pacific%20Tech.png
+Rapid Fones ,T4,Telecom ,L1,https://ashishdevden.github.io/MallNavigation/Logo/Rapid%20Fones.png
+BNBM ,T5,Home Appliances ,L1,https://ashishdevden.github.io/MallNavigation/Logo/BNBM.png
+BNBM ,T6,Home Appliances ,L1,https://ashishdevden.github.io/MallNavigation/Logo/BNBM.png
+Modern Corner& Modern Tribe ,T7,Clothing ,L1,https://ashishdevden.github.io/MallNavigation/Logo/Modern%20Corner%26%20Modern%20Tribe.png
+Size Small ,T8,Clothing ,L1,https://ashishdevden.github.io/MallNavigation/Logo/Size%20Small.png
+Phone Teck ,T9,Tech Gadgets,L1,https://ashishdevden.github.io/MallNavigation/Logo/Phone%20Teck%20Phone%20Teck.png
 Modern Corner ,T10,Clothing ,L1,
 Eurosports ,T11,Clothing ,L1,
-Cool Stuf ,T12,Tech Gadgets,L1,
+Cool Stuf ,T12,Tech Gadgets,L1,https://ashishdevden.github.io/MallNavigation/Logo/Cool%20Stuf.png
 Blooming Flowers ,T13,Gifts & souvenir ,L1,
-Ocean Investments Ltd ,T14,Clothing ,L1,
+Ocean Investments Ltd ,T14,Clothing ,L1,https://ashishdevden.github.io/MallNavigation/Logo/Ocean%20Investments%20Ltd.png
 Diamond International ,T15,Health Care ,L1,
 CHM ,T16,Home Appliances ,L1,
 Private Clothing ,T17,Clothing ,L1,
@@ -66,7 +66,7 @@ Private Shoesroom ,T18,Foot wear ,L1,
 SPI Travel Limited ,T19,Travel & Exchange ,L1,
 Trophy Haus ,T20,Sporting Goods ,L1,
 CHM ,T21,Home Appliances ,L1,
-Air Niugini Limited ,T22,Travel & Exchange ,L1,
+Air Niugini Limited ,T22,Travel & Exchange ,L1,https://ashishdevden.github.io/MallNavigation/Logo/Air%20Niugini%20Limited.png
 Marks ,T23,Clothing ,L1,
 "Sports Bar, Tapas and Gaming ",FC1,Bar & Restaurant ,L2,
 Yellow Captain Pizzeria ,FC2,Restaurant ,L2,
@@ -81,7 +81,7 @@ Taste of Home ,K13,Restaurant ,L2,
 Shakers Refreshment Bar ,K14,Restaurant ,L2,
 Kuk / Ilimo ,K15,Restaurant ,L2,
 Kiwik Travel Money ,T26,Travel & Exchange ,L3,
-Pacific Broadband ,T27,Telecom ,L3,
+Pacific Broadband ,T27,Telecom ,L3,https://ashishdevden.github.io/MallNavigation/Logo/Pacific%20Tech.png
 Diamond International ,T28,Health Care ,L3,
 Hannah's Beauty Box ,T29,Saloon & Spa ,L3,
 Kina ATM ,ATM 1 ,ATM ,L1,
