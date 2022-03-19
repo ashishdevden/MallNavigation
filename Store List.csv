@@ -1,30 +1,30 @@
 Store_Name,Id,category,floor,logoURL
 Ocean Investments Ltd ,SM1,Supermarket ,L1,https://ashishdevden.github.io/MallNavigation/Logo/Ocean%20Investments%20Ltd.png
-Pacific Tech,K1,Tech Gadgets,L1,https://ashishdevden.github.io/MallNavigation/Logo/Pacific%20Tech.png
+Pacific Tech,K1,Electronics,L1,https://ashishdevden.github.io/MallNavigation/Logo/Pacific%20Tech.png
 Simo – variety / gift ,K2,Gifts & souvenir ,L1,https://ashishdevden.github.io/MallNavigation/Logo/Simo%20_%20variety_%20gift.png
 Simo – Bmobile ,K2a,Telecom ,L1,https://ashishdevden.github.io/MallNavigation/Logo/Simo%20_%20variety_%20gift.png
 Alibi Juice Bar ,K3,Restaurant ,L1,https://ashishdevden.github.io/MallNavigation/Logo/Alibi%20Juice%20Bar.png
 Fone Haus ,T1,Telecom ,L1,https://ashishdevden.github.io/MallNavigation/Logo/Fone%20Haus.png
 Jean's West ,T2,Clothing ,L1,https://ashishdevden.github.io/MallNavigation/Logo/Jean's%20West.png
-Pacific Tech ,T3,Tech Gadgets,L1,https://ashishdevden.github.io/MallNavigation/Logo/Pacific%20Tech.png
+Pacific Tech ,T3,Electronics,L1,https://ashishdevden.github.io/MallNavigation/Logo/Pacific%20Tech.png
 Rapid Fones ,T4,Telecom ,L1,https://ashishdevden.github.io/MallNavigation/Logo/Rapid%20Fones.png
 BNBM ,T5,Home Appliances ,L1,https://ashishdevden.github.io/MallNavigation/Logo/BNBM.png
 BNBM ,T6,Home Appliances ,L1,https://ashishdevden.github.io/MallNavigation/Logo/BNBM.png
 Modern Corner& Modern Tribe ,T7,Clothing ,L1,https://ashishdevden.github.io/MallNavigation/Logo/Modern%20Corner%26%20Modern%20Tribe.png
 Size Small ,T8,Clothing ,L1,https://ashishdevden.github.io/MallNavigation/Logo/Size%20Small.png
-Phone Teck ,T9,Tech Gadgets,L1,https://ashishdevden.github.io/MallNavigation/Logo/Phone%20Teck%20Phone%20Teck.png
+Phone Teck ,T9,Electronics,L1,https://ashishdevden.github.io/MallNavigation/Logo/Phone%20Teck%20Phone%20Teck.png
 Modern Corner ,T10,Clothing ,L1,
 Eurosports ,T11,Clothing ,L1,
-Cool Stuf ,T12,Tech Gadgets,L1,https://ashishdevden.github.io/MallNavigation/Logo/Cool%20Stuf.png
+Cool Stuf ,T12,Electronics,L1,https://ashishdevden.github.io/MallNavigation/Logo/Cool%20Stuf.png
 Blooming Flowers ,T13,Gifts & souvenir ,L1,
 Ocean Investments Ltd ,T14,Clothing ,L1,https://ashishdevden.github.io/MallNavigation/Logo/Ocean%20Investments%20Ltd.png
-Diamond International ,T15,Health Care ,L1,
-CHM ,T16,Home Appliances ,L1,
+Diamond International ,T15,Health & Body Care,L1,
+CHM ,T16,Electronics,L1,
 Private Clothing ,T17,Clothing ,L1,
 Private Shoesroom ,T18,Foot wear ,L1,
 SPI Travel Limited ,T19,Travel & Exchange ,L1,
 Trophy Haus ,T20,Sporting Goods ,L1,
-CHM ,T21,Home Appliances ,L1,
+CHM ,T21,Electronics,L1,
 Air Niugini Limited ,T22,Travel & Exchange ,L1,https://ashishdevden.github.io/MallNavigation/Logo/Air%20Niugini%20Limited.png
 Marks ,T23,Clothing ,L1,
 "Sports Bar, Tapas and Gaming ",FC1,Bar & Restaurant ,L2,
@@ -33,16 +33,19 @@ Big Roster ,FC3,Restaurant ,L2,
 Kivung Restaurant & Bar ,FC4,Bar & Restaurant ,L2,
 Asian Haus ( Prakash ) ,FC5,Bar & Restaurant ,L2,
 Big Donut ,K4,Restaurant ,L2,
+Little Italy PNG,K5,Restaurant ,L2,
+Kopia Hart,K6,Restaurant ,L2,
+Orient Pearl,K7,Restaurant ,L2,
+Kayla's Chopsticks,K8,Restaurant ,L2,
 Numundo Steak Haus ,K9,Restaurant ,L2,
-Sean Law Niu Core Limited ,K10,Restaurant ,L2,
-Coffee Jenny ,K11,Restaurant ,L2,
-Taste of Home ,K13,Restaurant ,L2,
+Niu Core Limited ,K10,Restaurant ,L2,
+Dirty Kitchen,K11,Restaurant ,L2,
+iFood Delish ,K12,Restaurant ,L2,
+Soare Point,K13,Restaurant ,L2,
 Shakers Refreshment Bar ,K14,Restaurant ,L2,
 Kuk / Ilimo ,K15,Restaurant ,L2,
-Kiwik Travel Money ,T26,Travel & Exchange ,L3,
-Pacific Broadband ,T27,Telecom ,L3,https://ashishdevden.github.io/MallNavigation/Logo/Pacific%20Tech.png
-Diamond International ,T28,Health Care ,L3,
-Hannah's Beauty Box ,T29,Saloon & Spa ,L3,
+Diamond International ,T28,Health & Body Care,L3,
+Hannah's Beauty Box ,Health & Body Care,L3,
 Kina ATM ,ATM 1 ,ATM ,L1,
 Kina ATM ,ATM 2 ,ATM ,L2,
 BSP ATM ,ATM 3 ,ATM ,L1,
